@@ -16,9 +16,9 @@
 	<TBODY>
 
 		<TR align="left">
-            <TD><B><A href="app?action=home">Home Page</A></B><B> </B></TD>
-            <TD><B><A href="app?action=account">Account Vir</A></B><B> </B></TD>
-            <TD><B><A href="app?action=portfolio">Portfolio Section</A></B><B> </B></TD>
+            <TD><B><A href="app?action=home">Home Page Sadish</A></B><B> </B></TD>
+            <TD><B><A href="app?action=account">Account Virtusa Sadish</A></B><B> </B></TD>
+            <TD><B><A href="app?action=portfolio">Portfolio Section Sadish</A></B><B> </B></TD>
             <TD><B><A href="app?action=quotes&symbols=s:0,s:1,s:2,s:3,s:4">Quotes/Trade</A></B></TD>
             <TD><B><A href="app?action=logout">Logoff</A></B></TD>
             <TD></TD>
